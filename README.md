@@ -16,3 +16,7 @@
 - Board has a 2D array of PlayingPiece (board).
 - Game uses methods from Board (getfreecells(), addPiece()).
 - Game interacts with Player and Board to manage game flow (startGame(), isThereWinner()).
+
+##  UML-DIAGRAM:
+![uml_diagram](https://github.com/imkhushboo/TIC-TAE-TOE-LLD/assets/66317974/9934578e-9911-4c12-8a26-b4847006f845)
+
